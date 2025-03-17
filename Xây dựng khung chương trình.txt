@@ -1,0 +1,8 @@
+4 use case chính:
+use case đăng ký đăng nhập
+use case bài đăng
+use case bạn bè & trò chuyện
+use case tìm kiếm
+use case quản lý thông tin cá nhân
+Các use case mở rộng
+use case trò chơi, bán hàng, ...
