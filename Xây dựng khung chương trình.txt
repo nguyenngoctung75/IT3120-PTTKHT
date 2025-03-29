@@ -1,8 +1,8 @@
-4 use case chính:
-use case đăng ký đăng nhập
-use case bài đăng
-use case bạn bè & trò chuyện
-use case tìm kiếm
-use case quản lý thông tin cá nhân
-Các use case mở rộng
-use case trò chơi, bán hàng, ...
+4 chức năng chính:
+chức năng đăng ký đăng nhập
+chức năng bài đăng -> Khỏe 
+chức năng bạn bè & trò chuyện -> Nguyên An
+chức năng tìm kiếm -> Tùng
+chức năng quản lý thông tin cá nhân -> Chiến 
+
+tạo nhánh riêng , đẩy lên git 
