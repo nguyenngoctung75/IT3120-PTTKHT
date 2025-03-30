@@ -1,0 +1,13 @@
+- ban be:
+ + them ban be thi se gui yeu cau ket ban den doi Phuong cho doi Phuong su li
+ + khi nhan duoc yeu cau thi co de dong y hoac tu choi yeu cau
+ + tim kiem ban be se hien thi theo cac tieu chi ban muon va mot phan theo de xuat
+ + trong phan ban be khi ban nhan vao ban be trong muc se hien nen thong tin ca nhan cua ho
+- nhan tin
+ + khi ban nhap tin nhan gui sang doi Phuong thi se co thong bao ve doi Phuong
+ + khi nhan va xem tinn nhan thi se hien da xem
+ + thao tac tao nhom thi tao ten nhom them cac ban be vao
+ + goi dien thi se ket noi toi doi Phuong doi doi Phuong dong y va tu choi
+ + khoi tao goi dien nhom
+ + tinh nang tin nhan video
+ + tinh nang chuyen nhan tien thuc hien giao dich
